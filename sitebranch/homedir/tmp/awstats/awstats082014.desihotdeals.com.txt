@@ -1,0 +1,505 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201408 will be lost/reset.
+# Last config file used to build this data file was /home2/desideal/tmp/awstats/awstats.desihotdeals.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2011                
+POS_TIME 2691                
+POS_VISITOR 8815                
+POS_DAY 12697               
+POS_DOMAIN 3496                
+POS_LOGIN 3940                
+POS_ROBOT 4095                
+POS_WORMS 4421                
+POS_EMAILSENDER 4552                
+POS_EMAILRECEIVER 4695                
+POS_SESSION 13376               
+POS_SIDER 13567               
+POS_FILETYPES 4830                
+POS_DOWNLOADS 5088                
+POS_OS 5136                
+POS_BROWSER 5323                
+POS_SCREENSIZE 6201                
+POS_UNKNOWNREFERER 6275                
+POS_UNKNOWNREFERERBROWSER 6800                
+POS_ORIGIN 7025                
+POS_SEREFERRALS 7167                
+POS_PAGEREFS 7324                
+POS_SEARCHWORDS 7627                
+POS_KEYWORDS 7779                
+POS_MISC 2354                
+POS_ERRORS 7838                
+POS_CLUSTER 3796                
+POS_SIDER_404 7988                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140901011444 71 18275 13520627459098
+FirstTime 20140801080314
+LastTime 20140831230710
+LastUpdate 20140901200903 71 0 70 0 0
+TotalVisits 81                  
+TotalUnique 71                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 36 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 5 305825 11 15 248579
+1 2 4 215419 15 24 563280
+2 1 1 75 21 38 1074931
+3 4 4 147918 14 29 430367
+4 6 7 400789 16 30 473690
+5 0 0 0 19 30 546743
+6 1 1 66630 16 27 300315
+7 13 52 1082079 15 20 228763
+8 4 60 1482916 19 39 806337
+9 3 3 199338 19 38 1017482
+10 1 1 66630 16 35 838242
+11 38 271 5696378 24 39 523126
+12 22 239 1986844 25 29 435345
+13 2 2 133260 27 47 902364
+14 153 356 8343399 57 78 722247
+15 2 19 611222 399 405 1489186
+16 4 9 323996 11 19 374243
+17 12 125 3168994 12 19 357283
+18 10 158 4164596 8 17 187210
+19 9 109 2121372 12 23 395909
+20 43 426 6391671 9 25 267677
+21 14 142 1444577 17 23 190966
+22 16 153 2854000 201 233 919480
+23 10 143 2474891 13 23 356719
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+il 112 191 4428166
+us 95 370 10188227
+in 94 963 17342599
+gb 33 398 4420735
+vn 9 47 997278
+fr 7 7 198586
+om 5 67 1540336
+ch 5 69 1585601
+ph 4 51 668022
+es 3 61 714863
+ca 3 60 1421040
+cn 2 2 133260
+se 2 2 150
+jp 0 1 3595
+de 0 1 40361
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 312 7277578 20140825072447 0
+spider 43 963595 20140831221649 0
+bot[\s_+:,\.\;\/\\-] 17 1125594 20140831195138 0
+no_user_agent 2 133260 20140815055509 0
+crawl 2 133260 20140824104410 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 191 2383909 0 0
+png 615 3750110 0 0
+ttf 2 229560 0 0
+woff 42 1824544 0 0
+otf 35 2666956 0 0
+php 204 4296031 0 0
+html 91 6001033 0 0
+js 337 2675092 0 0
+jpg 744 19757179 0 0
+gif 29 98405 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 13
+linuxsuse 1
+blackberry 3
+linuxandroid 4
+winlong 13
+winxp 42
+winnt 2
+linuxubuntu 4
+winvista 223
+linux 26
+win7 1730
+macosx 125
+win2003 8
+Unknown 109
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 51
+safari7.0 2
+firefox28.0 1
+msie6.0 16
+chrome32.0.1700.72 7
+firefox3.6.11 1
+android 3
+firefox26.0 31
+chrome12.0.742.91 1
+chrome32.0.1700.41 3
+chrome31.0.1650.57 8
+curl 1
+chrome31.0.1650.63 39
+chrome36.0.1985.125 163
+firefox24.0 8
+safari7.0.1 3
+opera9.80 63
+firefox31.0 240
+chrome32.0.1700.102 30
+chrome5.0.375.53 1
+msie7.0 28
+firefox3.5.8 2
+firefox23.0 1
+chrome33.0.1750.146 1
+msie9.0 240
+firefox2.0.0.2 1
+safari7.0.5 1
+Unknown 31
+firefox3.0.8 1
+chrome30.0.0.0 1
+firefox32.0 342
+blackberry 3
+chrome32.0.1700.68 3
+opera9.27 4
+firefox30.0 16
+chrome35.0.1916.114 150
+chrome36.0.1985.143 647
+firefox25.0 18
+mozilla 65
+chrome35.0.1916.153 68
+chrome30.0.1599.12785 1
+netscape5.0 2
+firefox14.0.1 8
+msie10.0 6
+chrome25.0.1364.172 1
+firefox3.6.3 1
+safari5.1.9 3
+safari6.1.1 9
+chrome31.0.1650.16 4
+chrome11.0.696.71 2
+safari6.1 8
+safari 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_SiteExplorer/1.0b;__http://siteexplorer.info/) 20140818130750
+Mozilla/5.0_(compatible) 20140804144516
+BDFetch 20140805144336
+WinInet_Test 20140824152438
+Mozilla/6.0_(compatible) 20140804144509
+Opera/9.80_(Android;_Opera_Mini/7.6.35766/35.4086;_U;_en)_Presto/2.8.119_Version/11.10 20140831230710
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20140805184635
+WWW-Mechanize/1.73 20140804092617
+Opera/9.27 20140824220036
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+BDFetch 20140805144336
+WinInet_Test 20140824152438
+BPImageWalker/2.0_(www.bdbrandprotect.com) 20140805184635
+WWW-Mechanize/1.73 20140804092617
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 155 265
+From1 1 1
+From2 10 16
+From3 4 32
+From4 204 1976
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 10 16
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://translate.googleusercontent.com/translate_c 2 30
+http://signup.hostgator.in/admin/clientsservices.php 1 1
+http://codetechinfo.in/Portfolio.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 66 1201200
+302 203 975430
+206 24 355376
+406 493 111418
+404 107 1373773
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 17
+/cart/include/version.php 1 -
+/robots.txt 80 -
+/xcart/include/version.php 1 -
+/admin.php 3 -
+/carouselengine/arrows-48-48-2.png 1 -
+/notify-Speed_Bump 1 -
+/include/version.php 1 -
+/administrator/index.php 1 -
+/verify-Speed_Bump 2 http://www.desihotdeals.com/notify-Speed_Bump
+/accepted-Speed_Bump 2 http://desihotdeals.com/notify-Speed_Bump
+/store/include/version.php 1 -
+/administrator/ 4 -
+/images/marker.png 1 -
+/css/images/layout-bg.gif 3 -
+/images/r-arrow.png 1 -
+/wp-login.php 3 -
+/shop/include/version.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+62.219.8.226 69 74 1759173 20140804144411
+192.114.71.13 33 89 1963892 20140804144516
+116.203.190.134 31 150 2746183 20140825112731
+194.72.135.34 30 339 3003897 20140829141911
+192.187.126.42 12 12 281916 20140813071729
+202.78.234.219 12 112 343505 20140804122123
+171.159.64.10 12 108 2311739 20140821204357
+69.58.178.57 11 11 293424 20140823140906
+103.2.133.50 8 125 1510631 20140825121908
+1.53.18.237 8 46 931200 20140824075515
+38.100.21.64 7 8 181421 20140831144434
+171.159.48.4 5 62 1538918 20140821203001
+199.116.169.254 5 5 279260 20140821202638
+151.227.205.243 5 69 1585601 20140823223827
+106.218.80.116 5 67 1498654 20140818144141
+116.193.128.133 4 4 147918 20140829032413
+207.244.73.5 4 4 264912 20140819215247
+117.213.206.152 4 44 632339 20140801213327
+103.251.218.90 4 50 635093 20140816231948
+199.19.249.196 4 4 260306 20140821202629
+107.132.37.119 4 37 545334 20140815211422
+8.28.16.254 4 4 259754 20140829170704
+103.2.135.131 4 60 1437504 20140805171332
+213.251.182.11 4 4 352 20140824220036
+171.159.194.11 4 61 1471736 20140829170705
+126.90.85.56 0 1 3595 
+103.2.134.89 1 3 163891 20140816180550
+117.222.85.45 0 1 33008 
+1.187.30.124 2 30 399987 20140820221151
+192.237.216.89 1 1 66078 20140823083947
+62.219.8.233 1 1 66630 20140804105435
+158.106.67.177 0 1 33008 
+85.154.3.100 0 25 293832 
+82.80.234.142 1 5 63325 20140804144447
+54.82.60.21 1 1 66078 20140815001233
+116.193.131.79 1 16 333747 20140816224830
+158.106.67.139 0 2 46805 
+54.227.186.71 1 1 66630 20140811003604
+85.154.205.153 1 14 181107 20140819183204
+96.227.124.37 1 1 66630 20140830120919
+194.9.94.37 2 2 150 20140824215918
+208.80.194.127 2 2 41566 20140829230921
+42.104.32.239 0 1 26472 
+208.43.225.85 1 1 66934 20140806045513
+59.58.138.92 2 2 133260 20140816141244
+158.106.67.199 0 1 45687 
+158.106.67.196 0 1 39180 
+84.171.216.247 0 1 40361 
+72.46.152.69 2 2 132156 20140822042803
+91.121.100.66 2 2 132156 20140819090130
+158.106.67.156 0 1 32089 
+82.80.249.164 3 8 215954 20140804144508
+203.18.51.78 0 2 83263 
+103.226.2.22 0 1 32929 
+158.106.67.176 0 2 221423 
+64.202.161.41 1 1 66078 20140818225723
+23.23.222.104 1 1 66078 20140822122012
+202.78.233.106 1 1 53141 20140808201013
+82.80.244.58 3 7 158877 20140804144500
+82.9.166.61 3 59 1416838 20140820231714
+158.106.67.146 0 1 35755 
+158.106.67.195 0 1 13340 
+158.106.67.135 0 1 7088 
+116.203.170.0 3 59 1416838 20140814180239
+158.106.67.128 0 1 43091 
+178.32.148.198 1 1 66078 20140822165322
+111.93.159.50 3 59 1417138 20140806143443
+117.200.99.124 3 59 1416838 20140801080318
+208.80.194.122 0 1 3036 
+158.106.67.193 0 1 26472 
+37.228.107.90 3 61 714863 20140831230710
+158.106.67.197 0 1 37985 
+158.106.67.145 0 1 13413 
+69.64.155.184 2 2 132156 20140824012114
+202.78.234.203 1 1 66078 20140829163538
+208.43.245.244 1 1 66630 20140818130750
+158.106.67.138 0 1 32929 
+158.106.67.194 0 1 13306 
+158.106.67.130 0 2 42552 
+180.151.225.82 0 1 45687 
+158.106.67.133 0 2 44242 
+202.142.107.159 3 59 1417390 20140817113326
+158.106.67.169 0 1 4683 
+158.106.67.200 0 1 36842 
+158.106.67.134 1 1 66378 20140805144336
+113.160.206.56 1 1 66078 20140824152438
+202.78.234.71 3 41 566261 20140825190515
+188.135.15.231 2 13 617341 20140819183237
+14.139.238.210 0 1 45687 
+158.106.67.147 0 1 13275 
+85.154.202.246 2 15 448056 20140819183209
+158.106.67.186 0 1 54095 
+108.30.115.71 0 1 131220 
+158.106.67.183 0 1 77665 
+70.210.65.138 0 1 45687 
+99.228.92.28 3 60 1421040 20140825114550
+64.202.161.47 1 1 66078 20140818225843
+82.80.244.52 2 7 200315 20140804144516
+54.219.90.97 2 2 133260 20140804092623
+158.106.67.168 1 1 66378 20140805184345
+162.244.13.104 1 1 23696 20140823143119
+120.59.73.45 4 66 1473809 20140828201658
+66.87.148.79 0 1 39180 
+66.249.82.97 2 2 47392 20140824075513
+158.106.67.158 0 1 58633 
+202.78.234.155 1 1 66630 20140830133356
+198.101.238.203 1 1 66630 20140823062106
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20140801 7 103 2049177 2
+20140804 127 307 5016696 10
+20140805 9 92 2676649 5
+20140806 7 63 1554551 3
+20140808 7 7 194099 3
+20140810 0 2 134815 0
+20140811 1 1 66630 1
+20140813 3 3 70479 1
+20140814 3 62 1529387 1
+20140815 5 38 611412 2
+20140816 8 71 1265991 4
+20140817 3 59 1417390 1
+20140818 8 71 1743127 4
+20140819 8 70 1738570 5
+20140820 5 92 1945775 2
+20140821 26 179 4390223 4
+20140822 4 4 264312 3
+20140823 19 83 2035429 5
+20140824 18 56 1177253 6
+20140825 45 376 6244115 4
+20140826 6 69 1581583 1
+20140827 3 58 134673 1
+20140828 16 266 2493545 3
+20140829 24 87 2317394 6
+20140830 2 2 133260 2
+20140831 10 69 896284 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 5
+2mn-5mn 4
+15mn-30mn 3
+30s-2mn 11
+0s-30s 58
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 91 6001033 56 32
+/deal-details.php 76 1833809 13 12
+/topic-deal.php 72 1465421 1 8
+/font/MyriadPro-Cond.otf 35 2666956 1 7
+/font/StainyPersonalUseOnly.woff 32 1312064 0 7
+/login.php 18 310041 3 1
+/profile.php 11 177659 2 1
+/font/MyriadPro-Cond.woff 10 512480 0 5
+/view.php 6 502 3 3
+/server.php 5 201059 2 2
+/ajax.php 4 492 0 0
+/privacy.php 3 52815 0 0
+/about.php 3 52719 0 0
+/contact.php 3 49122 0 1
+/index.php 2 131829 0 1
+/font/MyriadPro-Cond.ttf 2 229560 0 1
+/help.php 1 20563 0 0
+END_SIDER

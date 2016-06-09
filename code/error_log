@@ -1,0 +1,789 @@
+[16-Jul-2014 18:15:54] PHP Fatal error:  Call to undefined method myfunction::post_view() in /home1/codetech/public_html/php/deals/userleftbar.php on line 44
+[16-Jul-2014 18:20:16] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/admin/config/functions.php on line 402
+[16-Jul-2014 18:24:09] PHP Fatal error:  Call to undefined method myfunction::loginverification() in /home1/codetech/public_html/php/deals/share-deal.php on line 3
+[16-Jul-2014 18:26:32] PHP Fatal error:  Call to undefined method functns::sharepicture() in /home1/codetech/public_html/php/deals/share-deal.php on line 39
+[17-Jul-2014 17:02:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/admin/config/functions.php on line 553
+[17-Jul-2014 19:06:38] PHP Fatal error:  Call to undefined method main_concontent::get_search() in /home1/codetech/public_html/php/deals/search.php on line 4
+[18-Jul-2014 11:19:26] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 11:51:51] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 12:17:05] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 12:18:43] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 12:20:44] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 12:20:47] PHP Fatal error:  Call to undefined method myfunction::user_comment() in /home1/codetech/public_html/php/deals/userleftbar.php on line 45
+[19-Jul-2014 13:27:48] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home1/codetech/public_html/php/deals/admin/config/extra.php on line 91
+[19-Jul-2014 13:27:48] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home1/codetech/public_html/php/deals/admin/config/extra.php on line 97
+[19-Jul-2014 13:27:48] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home1/codetech/public_html/php/deals/admin/config/extra.php on line 135
+[19-Jul-2014 13:27:48] PHP Warning:  unlink(images/temp/140719012748tumblr_mratlmIvuD1s3yn7co1_500.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home1/codetech/public_html/php/deals/admin/config/extra.php on line 237
+[19-Jul-2014 13:49:18] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 13:49:58] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 13:50:01] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 13:50:30] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 13:52:07] PHP Fatal error:  Class 'Facebook' not found in /home1/codetech/public_html/php/deals/login.php on line 70
+[19-Jul-2014 14:08:16] CSRF state token does not match one provided.
+[19-Jul-2014 14:11:41] CSRF state token does not match one provided.
+[19-Jul-2014 14:15:37] CSRF state token does not match one provided.
+[19-Jul-2014 14:18:40] CSRF state token does not match one provided.
+[19-Jul-2014 14:20:28] CSRF state token does not match one provided.
+[19-Jul-2014 14:21:27] CSRF state token does not match one provided.
+[19-Jul-2014 14:21:55] CSRF state token does not match one provided.
+[19-Jul-2014 14:27:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:27:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:30:08] CSRF state token does not match one provided.
+[19-Jul-2014 14:30:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:30:10] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:30:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:30:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:30:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:30:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:30:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:30:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:31:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:31:31] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:31:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:31:38] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:31:39] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:32:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 39
+[19-Jul-2014 14:33:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:33:48] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 14:34:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 14:34:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 16:29:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 37
+[19-Jul-2014 16:29:08] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 16:30:35] CSRF state token does not match one provided.
+[19-Jul-2014 16:30:36] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-login.php on line 41
+[19-Jul-2014 17:11:05] CSRF state token does not match one provided.
+[19-Jul-2014 17:11:11] CSRF state token does not match one provided.
+[19-Jul-2014 17:41:13] CSRF state token does not match one provided.
+[19-Jul-2014 17:46:19] CSRF state token does not match one provided.
+[19-Jul-2014 17:50:00] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:50:44] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:51:49] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:51:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:52:07] CSRF state token does not match one provided.
+[19-Jul-2014 17:52:08] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:52:11] CSRF state token does not match one provided.
+[19-Jul-2014 17:52:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 48
+[19-Jul-2014 17:52:57] CSRF state token does not match one provided.
+[19-Jul-2014 17:52:59] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 49
+[19-Jul-2014 17:53:37] CSRF state token does not match one provided.
+[19-Jul-2014 17:57:15] CSRF state token does not match one provided.
+[19-Jul-2014 18:17:37] PHP Fatal error:  Call to a member function api() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 4
+[19-Jul-2014 18:18:17] PHP Fatal error:  Call to a member function getLoginStatusUrl() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 68
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'codetech'@'localhost' (using password: NO) in /home1/codetech/public_html/php/deals/face.php on line 30
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/codetech/public_html/php/deals/face.php on line 30
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/face.php on line 37
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'codetech'@'localhost' (using password: NO) in /home1/codetech/public_html/php/deals/face.php on line 40
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/codetech/public_html/php/deals/face.php on line 40
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home1/codetech/public_html/php/deals/face.php on line 42
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'codetech'@'localhost' (using password: NO) in /home1/codetech/public_html/php/deals/face.php on line 42
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/codetech/public_html/php/deals/face.php on line 42
+[19-Jul-2014 18:48:37] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/face.php on line 44
+[19-Jul-2014 18:48:37] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/face.php on line 47
+[19-Jul-2014 18:57:14] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 18:58:45] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 18:59:01] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 18:59:50] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 19:00:14] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 19:00:45] PHP Fatal error:  Call to a member function getUser() on a non-object in /home1/codetech/public_html/php/deals/content-login.php on line 2
+[19-Jul-2014 19:02:28] CSRF state token does not match one provided.
+[19-Jul-2014 19:03:46] CSRF state token does not match one provided.
+[19-Jul-2014 19:14:43] CSRF state token does not match one provided.
+[19-Jul-2014 19:17:20] PHP Fatal error:  Using $this when not in object context in /home1/codetech/public_html/php/deals/login.php on line 154
+[19-Jul-2014 19:19:57] PHP Fatal error:  Class 'Facebook' not found in /home1/codetech/public_html/php/deals/header.php on line 10
+[19-Jul-2014 19:20:27] PHP Fatal error:  Using $this when not in object context in /home1/codetech/public_html/php/deals/header.php on line 98
+[19-Jul-2014 19:21:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'codetech'@'localhost' (using password: NO) in /home1/codetech/public_html/php/deals/admin/config/functions.php on line 112
+[19-Jul-2014 19:21:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/codetech/public_html/php/deals/admin/config/functions.php on line 112
+[19-Jul-2014 19:24:39] CSRF state token does not match one provided.
+[19-Jul-2014 19:32:34] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 19:32:40] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 19:33:07] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 19:36:15] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 19:38:51] PHP Fatal error:  Cannot redeclare class Facebook in /home1/codetech/public_html/php/deals/facebook.php on line 172
+[19-Jul-2014 19:54:39] CSRF state token does not match one provided.
+[19-Jul-2014 20:01:27] CSRF state token does not match one provided.
+[19-Jul-2014 20:04:44] CSRF state token does not match one provided.
+[19-Jul-2014 20:04:56] CSRF state token does not match one provided.
+[19-Jul-2014 20:05:00] CSRF state token does not match one provided.
+[19-Jul-2014 20:05:21] CSRF state token does not match one provided.
+[19-Jul-2014 20:07:24] CSRF state token does not match one provided.
+[19-Jul-2014 20:09:57] CSRF state token does not match one provided.
+[19-Jul-2014 20:11:57] CSRF state token does not match one provided.
+[19-Jul-2014 20:14:02] CSRF state token does not match one provided.
+[19-Jul-2014 20:18:32] CSRF state token does not match one provided.
+[19-Jul-2014 20:29:04] CSRF state token does not match one provided.
+[19-Jul-2014 20:29:20] CSRF state token does not match one provided.
+[19-Jul-2014 20:39:50] CSRF state token does not match one provided.
+[21-Jul-2014 12:05:11] PHP Warning:  Invalid argument supplied for foreach() in /home1/codetech/public_html/php/deals/content-login.php on line 46
+[21-Jul-2014 12:09:16] CSRF state token does not match one provided.
+[21-Jul-2014 12:09:31] CSRF state token does not match one provided.
+[21-Jul-2014 13:09:42] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=550405251753933&amp;redirect_uri=http%3A%2F%2Fcodetechinfo.in%2Fphp%2Fdeals%2Flogin.php%3FfbTrue%3Dtrue&amp;client_secret=7db5a5d3d9598285d72135c7ea337a1c&amp;code=AQALbdvK1mt98O-brV55NLZHOTMrurL8Wtb2DtCcJ8utF7Do4yp4avAiinTwcYkepDaYUdbGBXv2Y54l6blNzwVDQQmhgmvPjlB4llQ_alQzUJSi0pHQaSL_8cjHQjB8JqnEpktVTioYcTxpE3n3vWVklZTW7TnXm4ldDKXAAEq9JiNuPTSkkm0Q-JsPSz83AS70cGU8Gzf8oJoyPaqHiX0BGAVu-2c7kQh4UXPlsfWDdnucyhnw7ck7dT_Ez-76WD8-IyshAsHqLhh2A6s6V_c8BvY0NPK6ueaUKvaRxpT1ASV3M-X-9CgDGUtN-2fV5tE_UYWRkFo_irgRoT4Q6Q3c) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 23
+[21-Jul-2014 13:09:43] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 30
+[21-Jul-2014 13:11:08] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=550405251753933&amp;redirect_uri=http%3A%2F%2Fcodetechinfo.in%2Fphp%2Fdeals%2Flogin.php%3FfbTrue%3Dtrue&amp;client_secret=7db5a5d3d9598285d72135c7ea337a1c&amp;code=AQBbGCYUpU-l1dmJxe2BSBqEy4KyYojbxQFC7A4NGiTvHRYdK9QiEbstHTfh4l7JevxZfQq8JRfMcurnsbyQgQ468lpHqInBvv7cWnWV6ZUM4fRsG7tUngFfyiA2aeai9s80Ad_n5udg5EUyA_eQI-0SO0nBce3biU3YfDhs5rX3UDF-v1tFVtBtBED1snG9d22XQjRFObQtJHdvmyKZS9YOY_NIaZf-NYfG6C_M_8nshUv7XnblseqPNG_7ogRekHe_waY90ToNJtBTacwa2rBAazLGvWEoYs1_mQqbO98eQYtU51PsoI2BcWI8yziPgZXMmHSnHB0mUsqlO-A5bkeQ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 23
+[21-Jul-2014 13:11:10] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 30
+[21-Jul-2014 13:47:15] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home1/codetech/public_html/php/deals/login.php on line 47
+[21-Jul-2014 13:49:07] PHP Warning:  file_get_contents(https://graph.facebook.com/oauth/access_token?client_id=550405251753933&amp;redirect_uri=http%3A%2F%2Fcodetechinfo.in%2Fphp%2Fdeals%2Flogin.php%3FfbTrue%3Dtrue&amp;client_secret=7db5a5d3d9598285d72135c7ea337a1c&amp;code=AQCpKZl6UARmTh0qzF6WtBtU7UWwczuwnQ6_sO7qz1nXiV2mgc-RnX8DISinoca5KK3kxKErTydlnipzpuQ_E7JyF0JzHca_YEX8mfJSlRVoYoHyPksFxD79hbHcgcYNJRDndgYP5y_d-kbfsWEuqPAYGXRFZXuh4Cb0fkwuKSl-NKZLaPnazfeTOyC_Xxp3MjWG1PIB2rgD7Wtdd6Ss90TpCF4Ih6oJO4ryh3TwhtGYGqBYz_aVLHGPbkHp7bidPW-blcBa-4pdNW2aFYBR-gRPb_v13egArqQSHnRw9EN9clGZvLhwnJ-6Op_WwUM-3eQc5CPgY8NBf6VQG5FtxS7L) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 23
+[21-Jul-2014 13:49:08] PHP Warning:  file_get_contents(https://graph.facebook.com/me?access_token=) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home1/codetech/public_html/php/deals/login.php on line 30
+[21-Jul-2014 13:52:12] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home1/codetech/public_html/php/deals/login.php on line 47
+[21-Jul-2014 13:59:30] PHP Fatal error:  Call to undefined method stdClass::get_header() in /home1/codetech/public_html/php/deals/login.php on line 82
+[21-Jul-2014 14:02:31] PHP Fatal error:  Call to undefined method stdClass::get_header() in /home1/codetech/public_html/php/deals/login.php on line 82
+[21-Jul-2014 17:51:50] PHP Warning:  require_once(oauth/twitteroauth.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home1/codetech/public_html/php/deals/redirect.php on line 5
+[21-Jul-2014 17:51:50] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'oauth/twitteroauth.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/codetech/public_html/php/deals/redirect.php on line 5
+[21-Jul-2014 18:07:57] PHP Warning:  require(twconfig.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/codetech/public_html/php/deals/login-twitter.php on line 3
+[21-Jul-2014 18:07:57] PHP Warning:  require(twconfig.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/codetech/public_html/php/deals/login-twitter.php on line 3
+[21-Jul-2014 18:07:57] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'twconfig.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home1/codetech/public_html/php/deals/login-twitter.php on line 3
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:52:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 12:56:44] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:03:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:04:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:06:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:07:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:09:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:12:11] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:21] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:14:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:43] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:16:47] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home1/codetech/public_html/php/deals/getTwitterData.php on line 72
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:20:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:27:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:38:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:41:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:45:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 13:47:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:47:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:47:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:47:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 13:47:27] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on li[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:35:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:39:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:46:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[21-Jul-2014 14:58:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 08:01:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 09:10:37] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 58
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190
+[22-Jul-2014 10:48:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home1/codetech/public_html/php/deals/content-home.php on line 190

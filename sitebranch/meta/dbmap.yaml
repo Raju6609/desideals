@@ -1,0 +1,18 @@
+--- 
+MYSQL: 
+  dbs: 
+    desideal_01: 119.18.58.70
+    desideal_deals: 119.18.58.70
+  dbusers: 
+    desideal_01: 
+      dbs: 
+        desideal_01: 119.18.58.70
+      server: 119.18.58.70
+    desideal_deal: 
+      dbs: 
+        desideal_deals: 119.18.58.70
+      server: 119.18.58.70
+  noprefix: {}
+
+  owner: desideal
+  server: 119.18.58.70

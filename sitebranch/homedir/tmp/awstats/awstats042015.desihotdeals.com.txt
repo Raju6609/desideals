@@ -1,0 +1,547 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home2/desideal/tmp/awstats/awstats.desihotdeals.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2011                
+POS_TIME 2692                
+POS_VISITOR 13184               
+POS_DAY 15538               
+POS_DOMAIN 3540                
+POS_LOGIN 4045                
+POS_ROBOT 4200                
+POS_WORMS 4643                
+POS_EMAILSENDER 4774                
+POS_EMAILRECEIVER 4917                
+POS_SESSION 16187               
+POS_SIDER 16356               
+POS_FILETYPES 5052                
+POS_DOWNLOADS 5320                
+POS_OS 5368                
+POS_BROWSER 5518                
+POS_SCREENSIZE 6080                
+POS_UNKNOWNREFERER 6154                
+POS_UNKNOWNREFERERBROWSER 6403                
+POS_ORIGIN 6598                
+POS_SEREFERRALS 6734                
+POS_PAGEREFS 6909                
+POS_SEARCHWORDS 7124                
+POS_KEYWORDS 7295                
+POS_MISC 2356                
+POS_ERRORS 7373                
+POS_CLUSTER 3901                
+POS_SIDER_404 7513                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150427181212 136 24347 9605451388703
+FirstTime 20150401033627
+LastTime 20150427145838
+LastUpdate 20150427220307 136 0 136 0 0
+TotalVisits 64                  
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 10 328543 117 122 3056171
+1 12 19 491203 115 137 3122555
+2 1 1 69316 162 198 4952972
+3 11 67 1634089 228 251 5694703
+4 5 43 601543 306 318 6315273
+5 14 15 504638 189 235 5221451
+6 0 1 45687 186 208 5045365
+7 4 5 309951 207 245 5142447
+8 0 0 0 148 156 4026090
+9 3 3 139877 178 212 3773271
+10 4 61 1542890 244 280 5824027
+11 38 175 6323031 116 139 3948482
+12 7 63 1636995 123 168 3443853
+13 3 13 496547 97 126 2869121
+14 4 4 278432 91 135 3243958
+15 4 59 1551638 102 124 2741774
+16 4 5 232747 72 85 2465382
+17 5 20 475849 103 146 3337655
+18 5 62 1555957 112 163 2765714
+19 3 24 434190 72 108 2475592
+20 1 3 87568 102 120 3307398
+21 1 3 102291 88 135 2795622
+22 3 4 194999 132 195 4434082
+23 3 12 333061 121 140 3020649
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 61 108 3364801
+in 38 353 10139047
+sg 7 58 1721954
+ua 6 6 101664
+gb 6 100 1989607
+fr 5 5 293034
+cn 4 5 331346
+au 4 4 324070
+ru 3 18 475695
+ph 2 2 57632
+vn 2 2 154
+jp 1 1 69902
+ch 1 1 69900
+id 1 1 77
+de 1 1 69316
+lu 1 1 17413
+ve 1 1 69316
+sa 0 1 45687
+jo 0 1 45687
+it 0 2 107075
+ae 0 1 77665
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 2705 65907235 20150427172419 0
+bot[\s_+:,\.\;\/\\-] 436 12051375 20150427090553 0
+spider 126 4162021 20150427112401 0
+crawl 46 1241307 20150424085303 0
+slurp 20 621572 20150427023306 0
+msnbot\-media 8 267032 20150419043051 0
+[\s_+:,\.\;\/\\-]bot 1 0 20150416134016 0
+netcraft 1 69900 20150409025834 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 61 915918 0 0
+eot 6 720636 0 0
+png 134 1239609 0 0
+ttf 4 499632 0 0
+woff 9 396820 0 0
+otf 11 1011604 0 0
+php 70 1386212 0 0
+html 44 2939144 0 0
+js 114 2556173 0 0
+jpg 211 7682280 0 0
+gif 8 23014 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+blackberry 2
+linuxandroid 7
+winlong 5
+winxp 112
+linux 11
+winvista 105
+win7 370
+macosx 39
+win2003 14
+Unknown 7
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 34
+chrome34.0.1847.76 1
+firefox3.6.24 1
+safari7.0 13
+firefox28.0 1
+msie6.0 21
+firefox3.6 4
+android 5
+chrome36.0.1985.125 1
+opera9.80 1
+firefox1.0.4 3
+msie8.0 77
+chrome42.0.2311.90 101
+chrome39.0.2171.65 2
+msie7.0 21
+chrome37.0.2062.120 1
+opera9.64 1
+msie9.0 1
+Unknown 2
+firefox11.0 2
+chrome39.0.2171.71 2
+blackberry 2
+lg\- 1
+chrome41.0.2272.118 110
+firefox38.0 174
+firefox3.5.2 4
+chrome13.0.782.215 23
+mozilla 18
+firefox37.0 2
+firefox14.0.1 9
+msie10.0 1
+firefox3.6.3 1
+firefox36.0 62
+safari 3
+chrome21.0.1180.89 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Hivemind 20150420123230
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150403160800
+Mozilla/4.0_(compatible;_Synapse) 20150401033906
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Hivemind 20150420123230
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150403160800
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 65 88
+From1 1 1
+From2 7 12
+From3 3 3
+From4 68 568
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 4 9
+bing 2 2
+yandex 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://codetechinfo.in/Portfolio.html 2 2
+http://hvd-store.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+hotdealshome.com 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+hotdealshome.com 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 419 3036771
+206 2 863618
+406 3 678
+301 1 312
+404 374 4801786
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 109
+/fhadmin/lib/fckeditor/editor/fckeditor.html 1 -
+/robots.txt 239 -
+/admin/templates/editor/fckeditor.html 1 -
+/library/fckeditor/editor/fckeditor.html 1 -
+/directory/edt/assetmanager/assetmanager.php 1 -
+/Editor/assetmanager/assetmanager.asp 1 -
+/administration/scripts/editor/assetmanager/assetmanager.php 1 -
+/INC/GenericDB/assetmanager/assetmanager.asp 1 -
+/admin/WYSIWYGeditor/assetmanager/assetmanager.aspx 1 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/lists/admin/FCKeditor/editor/fckeditor.html 1 -
+/admin/common/editor/assetmanager/assetmanager.php 1 -
+/generator/assetmanager/assetmanager.php 1 -
+/webmail/fckeditor/editor/fckeditor.html 1 -
+/packages/portal/includes/js/editor/editor/assetmanager/assetmanager.php 1 -
+/admin/actualites4/editor/fckeditor.html 1 -
+/m/ 4 -
+/ftpmanager/Editor/assetmanager/assetmanager.asp 1 -
+/outils/fckeditor/editor/fckeditor.html 1 -
+/novice/FCKeditor/editor/fckeditor.html 1 -
+/yonetim/editor/assetmanager/assetmanager.php 1 -
+/administration/editor/assetmanager/assetmanager.php 1 -
+/mailing/tools/fckeditor/editor/fckeditor.html 1 -
+/panel/FCKeditor/editor/fckeditor.html 1 -
+/kyoshobutiken/fc_util/Editor_5_5/assetmanager/assetmanager.php 1 -
+/editor/assetmanager/assetmanager.php 1 -
+/innovaeditor/assetmanager/assetmanager.php 1 -
+/assetmanager.php 1 -
+/beheer/editor/assetmanager/assetmanager.asp 1 -
+/Contact.php 1 -
+/include/js/fckeditor/editor/fckeditor.html 1 -
+/plugins/editors/innova/assetmanager/assetmanager.php 1 -
+/innova-assetmanager/assetmanager.php 1 -
+/clientScript/InnovaStudio/assetmanager/assetmanager.aspx 1 -
+/admin/assetmanager/assetmanager.asp 1 -
+/admin/inc/scripts/assetmanager/assetmanager.asp 1 -
+/gestion/FCKeditor/editor/fckeditor.html 1 -
+/wspro/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/templates/us/admin-panel/HTML_Editor/assetmanager/assetmanager.php 1 -
+/apps/ecms/scripts/Editor/assetmanager/assetmanager.php 1 -
+/mobile/ 4 -
+/editor/library/editor4_2_1/assetmanager/assetmanager.php 1 -
+/admin/assetmanager/assetmanager.php 1 -
+/images/user/male.png 14 http://www.desihotdeals.com/admin/user.php
+/admin/is_editor/assetmanager/assetmanager.php 1 -
+/src/azelastin/assetmanager/assetmanager.php 1 -
+/innova/assetmanager/assetmanager.asp 1 -
+/webyep-system/programm/opt/fckeditor/editor/fckeditor.html 1 -
+/mynews/admin/editor/assetmanager/assetmanager.asp 1 -
+/resorce/admin/article/FCKeditor/editor/fckeditor.html 1 -
+/public_html/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/artsconnect/newsite/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/portal/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/scripts/iseditor/assetmanager/assetmanager.php 1 -
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/diendan/media/js/fckeditor/editor/fckeditor.html 1 -
+/hegn/assetmanager/assetmanager.asp 1 -
+/cms/modules/articles/assetmanager/assetmanager.php 1 -
+/pebble/FCKeditor/editor/fckeditor.html 1 -
+/sitemanager/protected/component/InnovaStudio-Editor/Editor/assetmanager/assetmanager.php 1 -
+/commun/Editor/assetmanager/assetmanager.php 1 -
+/~nga/Edit0r/assetmanager/assetmanager.php 1 -
+/inc.old/GenericDB/assetmanager/assetmanager.asp 1 -
+/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/editor/assetmanager/asset.asp 1 -
+/Lib/editor/assetmanager/assetmanager.php 1 -
+/new2/admin/js/fckeditor/editor/fckeditor.html 1 -
+/site/mambots/editors/fckeditor/fckeditor.html 1 -
+/wysiwyg/assetmanager/assetmanager.php 1 -
+/diymodule/Editor/assetmanager/assetmanager.php 1 -
+/js/assetmanager/assetmanager.php 1 -
+/inv/assetmanager/assetmanager.php 1 -
+/site/fckeditor/editor/fckeditor.html 1 -
+/edit/assetmanager/assetmanager.asp 1 -
+/.qawaka/helpers/editor/assetmanager/assetmanager.php 1 -
+/admin/panel/fckeditor/fckeditor.html 1 -
+/sites/all/libraries/fckeditor/fckeditor.html 1 -
+/admin/editor/assetmanager/assetmanager.php 1 -
+/rootadmin/assetmanager/assetmanager.php 1 -
+/admin/templates/fckeditor/editor/fckeditor.html 1 -
+/assetmanager.asp 1 -
+/assetmanager/assetmanager.php 1 -
+/assetmanager/asset.asp 1 -
+/Innovastudio5.5/assetmanager/assetmanager.php 1 -
+/gcassetmanager/assetmanager.asp 1 -
+/cms/assetmanager/assetmanager.php 1 -
+/beheer/novosite_editor/assetmanager/assetmanager.php 1 -
+/adminsys/assetmanager/assetmanager.asp 1 -
+/admin/saveorder.php 9 http://www.desihotdeals.com/admin/topics.php
+/scripts/assetmanager/assetmanager.asp 1 -
+/BasicClass/Editor/assetmanager/assetmanager.asp 1 -
+/modules/fckeditor/editor/fckeditor.html 1 -
+/editor/assetmanager/assetmanager.aspx 1 -
+/edit/innoEdit/assetmanager/assetmanager.asp 1 -
+/lib/editor3/assetmanager/assetmanager.asp 1 -
+/public/js/fckeditor/editor/fckeditor.html 1 -
+/V2/utils/WYSEditor/editor/fckeditor.html 1 -
+/core/coreSrc/externalSrc/WYSIWYG/assetmanager/assetmanager.asp 1 -
+/EditorNEW/assetmanager/assetmanager.asp 1 -
+/plugins/htmleditor2/assetmanager/assetmanager.php 1 -
+/include/editor/fckeditor.html 1 -
+/applications/JobListingManager/components/Editor/assetmanager/assetmanager.asp 1 -
+/start/public/editor/assetmanager/assetmanager.php 1 -
+/web-local/fak/rj/admin/FCKeditor/editor/fckeditor.html 1 -
+/plugins/innova/assetmanager/assetmanager.php 1 -
+/site/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/INC/GenericDB/assetmanager/assetmanager.php 1 -
+/system/templates/modules/admin/editor/assetmanager/assetmanager.php 1 -
+/assetmanager/assetmanager.asp 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+164.100.175.100 25 107 3967732 20150410121610
+115.117.19.58 13 234 5741820 20150408103042
+69.58.178.56 11 11 300025 20150420051311
+38.100.21.63 9 14 282669 20150413015553
+203.127.72.14 7 58 1721954 20150412110239
+204.124.183.98 6 6 172896 20150423051155
+82.9.166.61 6 100 1989607 20150419042940
+103.246.38.196 4 4 324070 20150412110234
+176.118.49.38 4 4 69652 20150401033906
+54.243.53.148 4 4 131551 20150403003129
+216.38.216.197 3 23 404780 20150408194252
+195.154.241.109 3 3 207948 20150418231221
+162.244.11.123 3 3 76208 20150422073242
+178.140.196.26 3 18 475695 20150420172300
+23.94.176.10 2 2 57632 20150412005021
+123.17.176.46 2 2 154 20150414172850
+212.129.57.178 2 2 85086 20150407142627
+199.30.16.162 2 2 216872 20150425074014
+199.30.24.240 2 7 250122 20150420132208
+198.23.221.94 2 2 52512 20150422073245
+65.55.210.85 2 6 247176 20150422114352
+52.5.155.149 2 2 139800 20150405091433
+199.30.25.116 2 11 263745 20150416233033
+178.137.85.199 2 2 32012 20150421040813
+68.234.22.167 1 1 69900 20150424100155
+14.99.239.82 0 2 71798 
+173.208.103.131 1 1 77 20150421094848
+52.5.161.9 1 1 69900 20150406150245
+202.164.38.195 0 1 35899 
+107.181.190.103 1 1 69316 20150421120014
+12.68.151.69 0 1 45687 
+86.98.44.201 0 1 77665 
+2.44.72.166 0 1 77665 
+23.94.186.73 1 1 28816 20150418031713
+150.70.173.13 1 1 69902 20150410115514
+91.147.159.6 0 1 45687 
+54.84.9.111 1 1 69316 20150408033746
+1.38.4.13 0 1 35899 
+54.149.107.194 1 1 69900 20150403160800
+176.10.104.227 1 1 69900 20150427145838
+115.184.3.177 0 1 35899 
+94.242.221.68 1 1 17413 20150401033627
+180.76.4.68 1 1 69316 20150416162905
+69.125.76.169 0 1 45687 
+180.76.4.138 1 1 69900 20150412123020
+188.247.76.77 0 1 45687 
+190.36.124.114 1 1 69316 20150414022238
+36.77.237.196 1 1 77 20150423000639
+104.168.70.107 1 1 28816 20150409181429
+54.167.177.218 1 1 69316 20150420123230
+122.160.253.245 0 1 32929 
+106.220.199.93 0 4 143596 
+180.76.4.150 1 1 69900 20150418003115
+210.56.122.189 0 1 35899 
+54.158.158.0 1 1 69316 20150403140851
+202.46.51.142 0 1 52330 
+213.61.149.100 1 1 69316 20150424011113
+124.125.72.121 0 1 37576 
+50.16.0.45 1 1 69316 20150423223043
+45.63.5.71 1 1 16006 20150401222425
+82.89.79.222 0 1 29410 
+64.233.173.252 0 2 76260 
+104.168.50.76 1 1 28816 20150423051202
+36.248.114.173 1 1 69900 20150421143934
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20150401 6 7 148758 3
+20150402 0 1 40361 0
+20150403 7 7 299583 4
+20150404 2 3 138699 2
+20150405 2 8 355194 1
+20150406 5 62 1539259 3
+20150407 10 119 3027448 6
+20150408 7 86 1995964 3
+20150409 2 2 57632 2
+20150410 26 108 4037634 2
+20150412 14 65 2173556 5
+20150413 11 16 340301 3
+20150414 3 3 69470 2
+20150415 1 1 69316 1
+20150416 3 12 333061 2
+20150417 0 2 113564 0
+20150418 4 4 196848 4
+20150419 6 100 1989607 2
+20150420 17 38 1132734 4
+20150421 5 5 171305 4
+20150422 4 11 460462 3
+20150423 4 4 127025 4
+20150424 2 2 139216 2
+20150425 2 2 216872 1
+20150426 0 2 81586 0
+20150427 1 2 115587 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+15mn-30mn 1
+0s-30s 61
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/ 42 2923538 35 23
+/deal-details.php 18 498469 16 17
+/font/MyriadPro-Cond.otf 11 1011604 2 8
+/about.php 8 139624 2 3
+/admin/ajax.php 7 53 0 0
+/font/StainyPersonalUseOnly.woff 7 353248 0 0
+/contact.php 6 96364 2 2
+/topic-deal.php 5 91124 0 1
+/font/StainyPersonalUseOnly.ttf 4 499632 2 2
+/view.php 4 308 3 3
+/font/MyriadPro-Cond.eot 3 345204 0 0
+/font/StainyPersonalUseOnly.eot 3 375432 0 1
+/login.php 3 50653 0 0
+/admin/topics.php 3 101313 0 0
+/search.php 2 29415 0 1
+/privacy.php 2 35210 0 0
+/admin/comments.php 2 54396 0 0
+/admin/assets/fonts/font_awesome/fontawesome-webfont.woff 2 43572 0 0
+/admin/user.php 2 73696 0 0
+/profile.php 2 31728 1 1
+/admin/ 2 15606 0 1
+/admin/help.php 1 16413 0 0
+/admin/dashboard.php 1 17363 0 0
+/help.php 1 20563 0 0
+/admin/deal.php 1 46781 0 0
+/index.php 1 69316 1 1
+/admin/about.php 1 13423 0 0
+END_SIDER

@@ -1,0 +1,475 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /home2/desideal/tmp/awstats/awstats.desihotdeals.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2011                
+POS_TIME 2685                
+POS_VISITOR 8300                
+POS_DAY 11334               
+POS_DOMAIN 3494                
+POS_LOGIN 4005                
+POS_ROBOT 4160                
+POS_WORMS 4489                
+POS_EMAILSENDER 4620                
+POS_EMAILRECEIVER 4763                
+POS_SESSION 12015               
+POS_SIDER 12194               
+POS_FILETYPES 4898                
+POS_DOWNLOADS 5153                
+POS_OS 5201                
+POS_BROWSER 5367                
+POS_SCREENSIZE 6076                
+POS_UNKNOWNREFERER 6150                
+POS_UNKNOWNREFERERBROWSER 6462                
+POS_ORIGIN 6680                
+POS_SEREFERRALS 6819                
+POS_PAGEREFS 7005                
+POS_SEARCHWORDS 7195                
+POS_KEYWORDS 7414                
+POS_MISC 2349                
+POS_ERRORS 7544                
+POS_CLUSTER 3861                
+POS_SIDER_404 7687                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301001717 9 1406 9578301754039
+FirstTime 20150201114501
+LastTime 20150228080647
+LastUpdate 20150301224642 9 0 8 0 0
+TotalVisits 59                  
+TotalUnique 55                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 85                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 9 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 60 1490560 9 16 289036
+1 8 58 1095941 16 32 880951
+2 0 0 0 18 26 784789
+3 7 69 1664504 21 32 905000
+4 2 4 200971 45 61 1725794
+5 5 65 1543532 115 122 639984
+6 4 9 152158 29 72 1417198
+7 1 2 79276 27 46 1018297
+8 6 63 1619231 47 63 1282779
+9 1 3 120685 29 45 1207763
+10 68 68 1599702 57 81 1287760
+11 7 68 1737868 23 37 1004177
+12 12 74 1859186 80 87 1629104
+13 22 82 2059746 25 32 697009
+14 150 208 5072875 180 208 1478047
+15 68 69 1645389 45 73 1322347
+16 14 65 1548379 18 32 1032336
+17 0 0 0 24 41 1138020
+18 0 4 130618 26 73 1965423
+19 6 7 453472 24 45 854402
+20 3 3 251 114 133 812987
+21 5 20 614327 16 29 666431
+22 4 60 1436082 17 33 725207
+23 13 112 1901603 16 33 1201540
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 187 349 8646218
+de 137 137 3269304
+ru 27 96 1890878
+in 27 397 9357502
+gb 9 65 1628275
+ua 7 42 804322
+dz 4 65 1479526
+fr 3 3 207948
+jp 2 4 197452
+cn 2 2 92997
+eu 2 2 176
+lv 1 1 69316
+at 1 1 69316
+nl 1 1 75
+il 0 1 37576
+kr 0 1 43091
+mx 0 1 32929
+au 0 2 78616
+am 0 1 45687
+sa 0 1 37576
+ca 0 1 37576
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+bot[\s_+:,\.\;\/\\-] 281 8646787 20150228064910 0
+googlebot 247 9131944 20150228205330 0
+spider 99 2889458 20150228224953 0
+crawl 60 1594233 20150225011628 0
+no_user_agent 1 69316 20150227083038 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 86 1149706 0 0
+eot 4 480424 0 0
+png 202 1619554 0 0
+woff 14 708064 0 0
+otf 12 1103568 0 0
+php 310 6251950 0 0
+html 70 4691364 0 0
+jpg 292 10291842 0 0
+js 174 1698249 0 0
+gif 9 31635 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 6
+blackberry 1
+winxp 261
+winlong 2
+unix 59
+java 72
+linux 70
+winvista 123
+win7 547
+macosx 9
+win2003 10
+Unknown 13
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+msie6.0 24
+firefox28.0 1
+chrome40.0.2214.94 59
+chrome40.0.2214.115 178
+android 4
+chrome40.0.2214.111 3
+chrome39.0.2171.95 72
+curl 1
+chrome31.0.1650.63 40
+firefox3.5.3 2
+chrome33.0.0.0 1
+msie8.0 55
+firefox6.0.2 1
+msie7.0 15
+chrome37.0.2062.120 1
+chrome27.0.1453 59
+safari8.0 4
+msie9.0 5
+Unknown 74
+firefox11.0 6
+chrome3.0.195.10 67
+blackberry 1
+chrome0. 1
+chrome37.0.2049.0 1
+chrome40.0.2214.109 1
+firefox10.0.1 4
+chrome17.0.963.66 1
+opera9.27 6
+firefox3.5.2 1
+firefox3.0.5 1
+chrome42.0.2305.3 1
+mozilla 5
+firefox14.0.1 10
+firefox22.0 1
+msie10.0 60
+firefox3.6.18 14
+firefox3.6.3 2
+firefox1.0.6 67
+chrome40.0.2214.93 60
+firefox36.0 61
+safari 3
+firefox35.0 200
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Owler/0.4;__;_) 20150226062324
+Curl/PHP_5.3.10-1ubuntu3.11_(http://github.com/shuber/curl) 20150216081503
+Firefox 20150224053749
+Mozilla/2.0_(compatible;_crw) 20150209045334
+Opera/9.27 20150216144920
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Java/1.6.0_23 20150225143344
+Firefox 20150224053749
+python-requests/2.2.1_CPython/2.7.6_Linux/2.6.32-431.23.3.el6.x86_64 20150222145552
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 287 328
+From1 0 0
+From2 6 18
+From3 5 5
+From4 112 822
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 1 12
+bing 2 2
+yandex 3 3
+yahoo 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://codetechinfo.in/Portfolio.html 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+posttttttttttttttttta 2
+ip+119.18.57.78+login 2
+desihotdeals.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 5
+ip 2
+posttttttttttttttttta 2
+119.18.57.78 2
+login 2
+desihotdeals.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 3 54600
+302 334 1529800
+206 1 986
+406 262 59212
+404 155 1990045
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 9
+//components/com_community/index.html 1 -
+/sitemap.xml 1 -
+/robots.txt 142 -
+/administrator/ 2 -
+/admin.php 2 -
+/css/images/layout-bg.gif 2 http://desihotdeals.com/css/style.css
+/customer/account/login 1 http://desihotdeals.com/customer/account/login
+/wp-login.php 3 -
+/engine/editor/css/content.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 85
+50.31.96.12 144 144 3576812 20150225143344
+144.76.39.3 134 134 3060772 20150204154917
+188.143.233.211 17 17 381638 20150211135943
+69.58.178.58 11 11 300025 20150220162004
+27.131.208.26 8 120 2981120 20150225120426
+38.100.21.65 7 10 183837 20150209120049
+115.187.63.222 5 64 1517066 20150225114636
+46.160.85.211 4 4 277264 20150227194104
+67.207.111.90 4 60 1471324 20150208134511
+116.193.132.14 4 60 1436082 20150220222813
+202.142.125.200 4 60 1490560 20150203000607
+197.200.83.216 4 65 1479526 20150204030116
+178.137.58.169 3 38 527058 20150226015120
+91.197.231.175 3 3 251 20150216144920
+116.193.134.52 3 33 483450 20150225235248
+202.142.125.217 3 53 1212455 20150223162309
+176.193.204.18 3 18 430251 20150211012703
+206.123.66.59 3 3 251 20150203052210
+2.93.178.59 3 18 475695 20150216215107
+82.9.166.61 3 59 1420076 20150226053809
+185.52.24.71 2 2 176 20150202204646
+64.233.172.185 2 23 784074 20150216081509
+23.238.18.202 2 2 0 20150222064219
+54.183.153.209 2 3 93817 20150226062323
+176.9.50.42 2 2 139216 20150209045334
+213.5.68.26 1 1 75 20150202204439
+173.24.11.82 0 1 45687 
+54.211.195.65 1 1 69316 20150226212704
+67.188.123.101 0 2 78616 
+82.166.180.164 0 1 37576 
+120.23.64.159 0 2 78616 
+64.69.91.210 1 1 69316 20150207235104
+96.227.124.37 1 1 69900 20150226094521
+66.249.93.193 0 1 26472 
+54.221.150.94 1 1 69316 20150201114501
+1.186.127.183 0 1 35899 
+64.233.172.193 0 14 236482 
+157.55.39.111 0 1 9376 
+54.196.58.242 1 14 222912 20150207233608
+136.169.10.10 1 1 69316 20150225133653
+5.39.93.201 1 1 69316 20150207234622
+116.202.36.26 0 1 35899 
+167.114.162.105 1 1 69900 20150223232441
+107.155.70.195 0 1 7088 
+220.227.210.117 0 1 35899 
+144.76.64.115 1 1 69316 20150223043159
+54.211.242.248 1 1 69316 20150201195318
+180.76.5.66 1 1 69316 20150217013714
+203.244.221.1 0 1 43091 
+78.129.157.209 1 1 69316 20150205013831
+37.110.100.80 1 40 395346 20150209230014
+98.170.245.249 0 1 37576 
+69.12.72.132 1 1 69900 20150218111433
+150.70.97.84 1 1 69316 20150207234713
+75.30.110.66 0 1 29410 
+64.233.173.136 0 1 45687 
+188.244.39.126 1 1 69316 20150207235638
+5.221.8.55 0 1 37576 
+195.154.226.90 1 1 69316 20150214152438
+141.136.87.80 0 1 45687 
+213.47.217.101 1 1 69316 20150218085539
+202.46.62.144 1 1 23681 20150228080647
+126.255.92.18 0 1 29410 
+64.233.172.177 1 22 399520 20150216081509
+91.121.83.118 1 1 69316 20150207234907
+99.236.140.237 0 1 37576 
+107.183.1.223 1 1 69900 20150219033810
+189.143.35.120 0 1 32929 
+76.188.40.151 0 1 29410 
+46.158.50.127 1 1 69316 20150209210042
+207.46.13.110 0 1 6937 
+217.10.151.199 1 1 69316 20150222195008
+66.249.93.187 0 2 75097 
+157.55.39.248 0 2 13828 
+223.176.188.206 0 1 35899 
+192.241.215.158 1 1 69316 20150216081503
+117.227.174.165 0 2 71798 
+14.139.212.226 0 1 21375 
+64.233.173.252 0 2 73475 
+71.110.129.229 0 1 36842 
+150.70.97.96 1 1 69316 20150207235923
+204.13.200.200 1 16 235483 20150207233608
+81.142.62.10 1 1 69316 20150219104024
+183.79.62.218 0 1 29410 
+92.63.110.237 1 1 69316 20150226030306
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20150201 2 2 138632 2
+20150202 70 72 1597623 3
+20150203 7 63 1490811 3
+20150204 71 132 3009912 2
+20150205 4 60 1489976 2
+20150207 9 40 1060023 9
+20150208 4 60 1471324 1
+20150209 10 56 747956 4
+20150210 0 3 101569 0
+20150211 20 36 849465 2
+20150212 0 3 120784 0
+20150213 0 1 37576 0
+20150214 1 1 69316 1
+20150215 0 3 107697 0
+20150216 10 81 1965338 5
+20150217 1 1 69316 1
+20150218 2 2 139216 2
+20150219 2 2 139216 2
+20150220 15 72 1773683 2
+20150221 0 2 58820 0
+20150222 3 4 106892 2
+20150223 5 56 1397358 3
+20150224 0 3 78886 0
+20150225 158 303 7207104 5
+20150226 11 104 2285382 6
+20150227 4 9 455871 1
+20150228 1 2 56610 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 6
+0s-30s 49
+2mn-5mn 2
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/topic-deal.php 120 2388043 0 2
+/deal-details.php 104 2524032 4 3
+/ 68 4551564 44 32
+/profile.php 34 542429 0 0
+/login.php 17 287657 2 2
+/font/StainyPersonalUseOnly.woff 12 605568 1 6
+/font/MyriadPro-Cond.otf 12 1103568 0 2
+/view.php 9 753 5 5
+/about.php 8 139944 0 2
+/contact.php 7 112534 2 0
+/privacy.php 6 105310 0 1
+/help.php 4 81932 0 0
+/font/MyriadPro-Cond.eot 2 230136 0 1
+/font/StainyPersonalUseOnly.eot 2 250288 0 1
+/font/MyriadPro-Cond.woff 2 102496 0 1
+/./ 2 139800 0 0
+/index.php 1 69316 1 1
+END_SIDER
